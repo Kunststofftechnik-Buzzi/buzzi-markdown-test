@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Markdown mit Bildern.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2d9686dc6c3de0f",
+            "id": "082b18558a3597e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Markdown mit Bildern.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 547.5
+    "width": 279.5
   },
   "right": {
     "id": "bb3fc3190634512c",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Markdown mit Bildern.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Markdown mit Bildern.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Markdown mit Bildern.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,11 +159,12 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "a2d9686dc6c3de0f",
+  "active": "082b18558a3597e4",
   "lastOpenFiles": [
+    "Weitere Markdown Datei.md",
+    "README.md",
     "attachments/Bildschirmfoto 2024-09-04 um 09.19.24.png",
     "attachments/Bildschirmfoto 2024-09-04 um 09.06.33.png",
-    "Test Markdown mit Bildern.md",
     "Test Wiki Link.md",
     "attachments/Bildschirmfoto 2024-09-04 um 09.09.46.png",
     "attachments/Bildschirmfoto 2024-09-04 um 09.18.16.png",
